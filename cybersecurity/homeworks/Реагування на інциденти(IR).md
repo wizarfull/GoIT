@@ -1,4 +1,6 @@
-[Посилання на Схему](https://excalidraw.com/#json=Pb87_BqIaetfVergbbHjH,_eHOOfMLH32h2TLWvnp1Xw)
+
+Схема:
+<img src="./images/Untitled-2025-01-31-1947.excalidraw.png">
 
 План дій для запобігання MITM-атакам
 + Захист мережевого трафіку
